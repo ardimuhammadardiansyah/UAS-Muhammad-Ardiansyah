@@ -1,0 +1,20 @@
+{
+  "name": "muhammadardiansyah",
+  "version": "1.0.0",
+  "description": "frontend : https://snack.expo.dev/@muhammadardiansyah/muhammad_ardiansyah_213510031",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Muhammad Ardiansyah",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.0",
+    "nodemon": "^3.0.3"
+  }
+}
